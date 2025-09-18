@@ -1,30 +1,51 @@
-# Minesweeper game
+# 🧩 Minesweeper Game  
+*v0.dev 배포와 자동 동기화되는 마인스위퍼 프로젝트*
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+---
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/akas-projects-983ed5fe/v0-minesweeper-game)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/56l1Av5Axd8)
+## 📖 개요
+이 저장소는 **v0.dev**에서 배포한 앱과 자동으로 동기화됩니다.  
+v0.dev에서 프로젝트를 수정하면 이 저장소에도 자동으로 반영되며,  
+항상 최신 버전을 유지할 수 있습니다.
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## 🚀 배포
+현재 프로젝트는 **Vercel**에 배포되어 있습니다.  
+아래 링크에서 바로 플레이해 보세요.
 
-## Deployment
+🔗 **[Minesweeper 게임 실행](https://vercel.com/akas-projects-983ed5fe/v0-minesweeper-game)**
 
-Your project is live at:
+---
 
-**[https://vercel.com/akas-projects-983ed5fe/v0-minesweeper-game](https://vercel.com/akas-projects-983ed5fe/v0-minesweeper-game)**
+## 🛠 앱 개발
+앱 개발과 수정은 v0.dev 프로젝트 페이지에서 진행할 수 있습니다.
 
-## Build your app
+🔗 **[v0.dev 프로젝트 열기](https://v0.dev/chat/projects/56l1Av5Axd8)**
 
-Continue building your app on:
+여기서 수정한 내용은 자동으로 저장소에 푸시되고,  
+Vercel을 통해 새 버전이 배포됩니다.
 
-**[https://v0.dev/chat/projects/56l1Av5Axd8](https://v0.dev/chat/projects/56l1Av5Axd8)**
+---
 
-## How It Works
+## ⚙️ 동작 방식
+1. **v0.dev에서 프로젝트 생성 및 수정**  
+   UI에서 코드와 기능을 추가·수정합니다.
+2. **배포 실행**  
+   v0.dev 인터페이스에서 배포를 클릭하면 자동으로 커밋이 생성됩니다.
+3. **자동 배포**  
+   Vercel이 저장소에서 최신 코드를 가져와 자동으로 배포합니다.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+> **즉:** v0.dev → Git 저장소 → Vercel 배포로 이어지는 완전 자동화 프로세스입니다.
+
+---
+
+## 💡 추가 정보
+- **v0.dev**는 AI 기반 앱 개발 툴로, 코드 없이 빠르게 앱을 만들 수 있습니다.
+- **Vercel**은 서버리스 배포 플랫폼으로, 전 세계 어디서든 빠르게 접근할 수 있습니다.
+- 저장소 변경 이력을 통해 협업 시 코드 변경 추적이 용이합니다.
+
+---
+
+## 🖼 스크린샷 (선택 사항)
+> 필요하다면 마인스위퍼 게임 화면 캡처를 여기에 추가할 수 있습니다.
